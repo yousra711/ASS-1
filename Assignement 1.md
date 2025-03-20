@@ -535,4 +535,4 @@ def intersection(l1,l2):
   return l3
 print(intersection(l1,l2))
 ```
-4. [Union de listes](ex4.3)
+3. [Union de listes](ex4.3)

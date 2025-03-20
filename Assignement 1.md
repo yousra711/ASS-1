@@ -521,5 +521,5 @@ def argmax(l):
 v,k=argmax(l)
 print("Max vente :", v, "------->", mois[k])
 ```
-3. [Intersection de listes](ex4.2)
-4. [Union de listes](ex4.3)
+2. [Intersection de listes](ex4.2)
+3. [Union de listes](ex4.3)
